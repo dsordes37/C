@@ -7,6 +7,7 @@ Os exeplos de código neste repositório estão sendo retirados da documentaçã
 ## Exemplos
 1. [Primeiros passos em C++](./docs/001-firststeps.md)
 2. [Constantes e tipos](./docs/002-constants.md)
+3. [Literais de cadeia](./docs/003-literaisDeCadeia.md)
 
 ## Referências
 * [Documentação](https://learn.microsoft.com/pt-br/cpp/c-language)
