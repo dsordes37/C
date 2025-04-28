@@ -1,6 +1,6 @@
-# Aprendendo C++
+# Aprendendo C
 
-Este é um repositŕio criado para reunir arquivos de aprendizagem da línguagem C++.
+Este é um repositŕio criado para reunir arquivos de aprendizagem da línguagem C.
 
 Os exeplos de código neste repositório estão sendo retirados da documentação e demais links nas referências.
 
