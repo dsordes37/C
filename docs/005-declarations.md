@@ -9,4 +9,4 @@ Em C, ao criar uma variável é preciso definir seu tipo, é possível ver mais 
 Declarações de variáveis ou listas dentro de funções são ditas como "de nível interno" ou "local", enquanto declarações fora de funções são de "nível externo" ou "global".
 
 
-[<- Estrutura básica](./004-estrutura.md) ||===|| [Página inicial](../readme.md)
+[<- Programas em C](./004-programasC.md) ||===|| [Página inicial](../readme.md)

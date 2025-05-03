@@ -16,4 +16,4 @@ O `*` é usado para definir variáveis que armazenam literais de cadeia.
 ## Tipos de Cadeia
 As cadeias de caracteres são matrizes de do tipo `char` ou `wchar_t` a depender do tamanho dos caracteres. Ou seja, todo literal de cadeia de caracteres é um array de caracteres comuns.
 
-[<- Constantes e tipos](./001-firststeps.md) ||===|| [Página inicial](../readme.md) ||===|| [Estrutura de programas C ->](./004-estrutura.md)
+[<- Constantes e tipos](./001-firststeps.md) ||===|| [Página inicial](../readme.md) ||===|| [Programas em C ->](./004-programasC.md)
